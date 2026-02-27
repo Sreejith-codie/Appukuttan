@@ -1,4 +1,4 @@
 import os
 
-BOT_TOKEN = os.getenv("8626495130:AAF2Vctyjln0V8DAVQL_P4yAzk-eT4RX4tQ")
-OPENAI_API_KEY = os.getenv("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")
+BOT_TOKEN = os.getenv("BOT_TOKEN")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
